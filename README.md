@@ -16,7 +16,7 @@ multi-class-without-SSB.h5: Pre-trained model for predicting Non-NABP/DBP/RBP wi
 
 ## Predict using our pre-trained models
 ### Dependencies
-Tensorflow \
+Tensorflow/2.11.0 \
 Blast/2.11.0+ \
 Uniprotref90 database
 ### Step 1: 
