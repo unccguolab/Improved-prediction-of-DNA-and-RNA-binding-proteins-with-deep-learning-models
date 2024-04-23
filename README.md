@@ -1,10 +1,6 @@
 # Improved prediction of DNA and RNA binding proteins with deep learning models
 In this project, we generated accurate and robust datasets including Non-NABPs, DSBs and SSBs, and developed deep learning methods including both hierarchical and multi-class approaches to predict the types of NABPs for any given proteins.
 
-
-# Installation
-git clone https://github.com/unccguolab/Improved-prediction-of-DNA-and-RNA-binding-proteins-with-deep-learning-models
-
 # Dependencies
 Tensorflow \
 Blast/2.11.0+ \
