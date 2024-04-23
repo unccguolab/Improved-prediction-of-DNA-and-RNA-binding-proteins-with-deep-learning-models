@@ -1,5 +1,5 @@
 # Improved prediction of DNA and RNA binding proteins with deep learning models
-In this project, we generated accurate and robust datasets including Non-NABPs, DSBs and SSBs, and developed deep learning methods including both hierarchical and multi-class approaches to predict the types of NABPs for any given proteins.
+In this project, we generated accurate and robust non-redundant datasets including Non-NABPs, DSBs, SSBs and RBPs, and developed deep learning methods including both hierarchical and multi-class approaches to predict the types of NABPs for any given proteins.
 
 ## File description
 ### Files in /datasets:
