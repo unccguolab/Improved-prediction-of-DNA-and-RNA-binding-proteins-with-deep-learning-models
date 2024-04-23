@@ -1,12 +1,15 @@
 # Improved prediction of DNA and RNA binding proteins with deep learning models
 In this project, we generated accurate and robust datasets including Non-NABPs, DSBs and SSBs, and developed deep learning methods including both hierarchical and multi-class approaches to predict the types of NABPs for any given proteins.
 
-## Dependencies
+## File description
+
+
+## Predict using our pre-trained models
+
+### Dependencies
 Tensorflow \
 Blast/2.11.0+ \
 Uniprotref90 database
-
-## Predict using our pre-trained models
 
 ### Step 1: 
 Prepare proteins that need to be predicted in .fasta format
